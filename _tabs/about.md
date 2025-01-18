@@ -33,5 +33,4 @@ When I’m not coding or testing, you’ll likely find me exploring new technolo
 
 If you’re interested in my work or would like to collaborate, feel free to reach out! You can find my contact information [here](mailto:alandonovan@outlook.com.au) or check out the rest of my website.
 
----
 
