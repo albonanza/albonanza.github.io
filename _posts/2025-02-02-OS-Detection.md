@@ -1,11 +1,11 @@
-```yaml
+
 ---
-title: "Having Fun with TTL and Nmap for OS Discovery"
-date: 2025-02-02 12:00:00 +0000
+title: "TTL and Nmap for OS Discovery"
+date: 2025-02-02
 categories: [blog]
 tags: [nmap, os detection, tutorial]
 ---
-```
+
 
 # Hey There, Security Explorers!
 
