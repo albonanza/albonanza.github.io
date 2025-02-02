@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "TTL and Nmap for OS Discovery"
