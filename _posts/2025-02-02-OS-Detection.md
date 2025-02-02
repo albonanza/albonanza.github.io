@@ -1,11 +1,13 @@
 
 ---
+layout: post
 title: "TTL and Nmap for OS Discovery"
-date: 2025-02-02
-categories: [blog]
+date: 2025-02-02 13:57
+category: [enumeration]
 tags: [nmap, os detection, tutorial]
 ---
 
+TTL and Nmap for OS Discovery
 
 # Hey There, Security Explorers!
 
